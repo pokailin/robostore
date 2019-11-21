@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  max-width: 950px;
+  min-height: 300px;
+  margin: 0 auto;
+  background-color: rgba(64, 126, 203, 0.2);
+}
+
+.card {
+  background-color: rgb(169, 211, 198, 0);
+  width: 250px;
+  height: 300px;
+  margin: 1.5rem 1.5rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 0.3rem;
+  transition: all 0.3s linear;
+}
+
+.card:hover {
+  background-color: rgba(169, 211, 198, 0.4);
+  box-shadow: 4px 4px rgb(190, 189, 189);
+  transform: scale(1.1);
+}
+
+.card img {
+  width: 100px;
+  height: 75px;
+  margin-bottom: 35px;
+}
+
+.card p {
+  margin-bottom: 15px;
+}
+
+.card p a {
+  color: rgba(79, 80, 160, 0);
+  transition: all 0.1s linear;
+}
+
+.card:hover p a {
+  color: rgba(79, 80, 160, 1);
+}

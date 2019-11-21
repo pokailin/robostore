@@ -1,0 +1,25 @@
+input {
+    display: block;
+    margin: 3rem auto 1rem auto;
+    border-radius: 3px;
+    width: 500px;
+    height: 40px;
+    text-indent: 10px;
+}
+
+hr {
+    width: 20rem;
+    margin: 15px auto 0 auto;
+}
+
+@media only screen and (max-width: 750px) {
+    input {
+        width:350px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    input {
+        width:200px;
+    }
+}

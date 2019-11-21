@@ -1,0 +1,21 @@
+.sorting {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.sorting ul {
+    display: flex;
+}
+
+.sorting button {
+    background: none;
+    border: 1px solid #407ecb;
+    border-radius: 5px;
+    padding: 2px 10px;
+}
+
+.sorting button:hover {
+    background: #407ecb;
+    color: white;
+}

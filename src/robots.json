@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "model": "XZ-2000",
+        "type": "Nanny-bot",
+        "price": "20000"
+    },
+    {
+        "id":"2",
+        "model": "JH-1880",
+        "type": "Chauffeur-bot",
+        "price": "18500"
+    },
+    {
+        "id":"3",
+        "model": "AC-1492",
+        "type": "Cleaning-bot",
+        "price": "20000"
+    },
+    {
+        "id":"4",
+        "model": "TM-1000",
+        "type": "Security-bot",
+        "price": "50000"
+    },
+    {
+        "id":"5",
+        "model": "GG-250",
+        "type": "Utility-bot",
+        "price": "10000"
+    },
+    {
+        "id":"6",
+        "model": "TZ-2500",
+        "type": "Security-bot",
+        "price": "65000"
+    },
+    {
+        "id":"7",
+        "model": "ST-190",
+        "type": "Chauffeur-bot",
+        "price": "22500"
+    },
+    {
+        "id":"8",
+        "model": "NN-8500",
+        "type": "Nanny-bot",
+        "price": "22000"
+    },
+    {
+        "id":"9",
+        "model": "LX-1500",
+        "type": "Cleaning-bot",
+        "price": "15000"
+    },
+    {
+        "id":"10",
+        "model": "MT-1500",
+        "type": "Utility-bot",
+        "price": "12000"
+    }
+]

@@ -1,0 +1,55 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(205, 29, 29, 0.9);
+    color: white;
+    border-bottom: 1px solid #407ecb;
+}
+
+.navbar ul {
+    display: flex;
+    margin-right: 5rem;
+}
+
+li {
+    list-style-type: none;
+    margin: 0 20px;
+    align-self: center;
+}
+
+.logo {
+    align-self: center;
+    padding: 10px;
+    margin-left: 5rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        margin-left: 2rem;
+    }
+
+    ul {
+        margin-right: 2rem;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .logo {
+        font-size: 1.2rem;
+    }
+
+    li {
+        font-size: 0.9rem;
+        margin: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .logo {
+        margin-left: 1rem;
+    }
+
+    ul {
+        margin-right: 1rem;
+    }
+}
