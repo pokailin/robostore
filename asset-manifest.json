@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robostore/static/css/main.4fb4802c.chunk.css",
+    "main.js": "/robostore/static/js/main.506ba181.chunk.js",
+    "main.js.map": "/robostore/static/js/main.506ba181.chunk.js.map",
+    "runtime-main.js": "/robostore/static/js/runtime-main.b94c35c1.js",
+    "runtime-main.js.map": "/robostore/static/js/runtime-main.b94c35c1.js.map",
+    "static/js/2.ffea93fd.chunk.js": "/robostore/static/js/2.ffea93fd.chunk.js",
+    "static/js/2.ffea93fd.chunk.js.map": "/robostore/static/js/2.ffea93fd.chunk.js.map",
+    "index.html": "/robostore/index.html",
+    "precache-manifest.dfb47f223cc4b2b95a0b98418b4380e5.js": "/robostore/precache-manifest.dfb47f223cc4b2b95a0b98418b4380e5.js",
+    "service-worker.js": "/robostore/service-worker.js",
+    "static/css/main.4fb4802c.chunk.css.map": "/robostore/static/css/main.4fb4802c.chunk.css.map",
+    "static/media/Cover.css": "/robostore/static/media/robot.75ee1ceb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b94c35c1.js",
+    "static/js/2.ffea93fd.chunk.js",
+    "static/css/main.4fb4802c.chunk.css",
+    "static/js/main.506ba181.chunk.js"
+  ]
+}
